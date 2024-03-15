@@ -6,7 +6,7 @@ package ucr.ac.cr.programacionll;
 
 /**
  *
- * @author Usuario
+ * @author NomiH
  */
 public class Programacionll {
 
